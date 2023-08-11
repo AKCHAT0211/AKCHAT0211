@@ -3,7 +3,7 @@
 </p>
 
 ```js
-import Student from 'https://rb.gy/z506q';
+import Student from 'https://github.com/AKCHAT0211';
 
 class Bio extends Student {
   name     = 'Akchat Jain';

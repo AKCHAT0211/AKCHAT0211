@@ -13,8 +13,8 @@ class Bio extends Student {
 }
 
 class Skills extends Student {
-  languages  = ['Java', 'C',''];
+  languages  = ['Java', 'C'];
   databases  = ['MySQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  frameworks = ['React', 'React Native', 'Collection'];
 }
 ```
